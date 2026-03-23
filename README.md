@@ -5,5 +5,3 @@ sorting techniques
 1.Bubble sort in main
 <br>
 2.Insertion Sort in main
-<br>
-3.Selection sort in varsha
