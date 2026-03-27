@@ -1,7 +1,8 @@
 # Sort
-README.md is  in main
 sorting techniques
 <br>
-1.Bubble sort in main
+1.Bubble sort(main)
 <br>
-2.Insertion Sort in main
+2.Insertion sort(main)
+<br>
+3.Selection sort
